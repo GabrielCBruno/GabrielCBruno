@@ -2,6 +2,13 @@
 
  <div>
    <a href="https://github.com/GabrielCBruno">
+    <p>
+     Sou formado em Análise e Desenvolvimento de Sistemas pela Unicesumar, com 22 anos de
+     idade e uma paixão profunda por tecnologia. Tenho experiência em várias linguagens de
+     programação. No backend, domino C, Java, Object Pascal. No frontend, sou proficiente em HTML5
+     e CSS3. Meu objetivo é contribuir significativamente para o campo da tecnologia, desenvolvendo
+     aplicações de software e projetos que impactem positivamente a sociedade.
+    </p>
 </div>
     
 <div style="display: inline_block"><br>
