@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao meu perfil
 
  <div>
-   <a href="https://github.com/GabrielCBruno">
-   <p style="text-decoration: none;">
+   <a href="https://github.com/GabrielCBruno"></a>
+    <p>
      Sou formado em Análise e Desenvolvimento de Sistemas pela Unicesumar, com 22 anos de
      idade e uma paixão profunda por tecnologia. Tenho experiência em várias linguagens de
      programação. No backend, domino C, Java, Object Pascal. No frontend, sou proficiente em HTML5
